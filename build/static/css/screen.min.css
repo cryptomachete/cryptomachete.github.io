@@ -469,7 +469,7 @@ input[type=submit] {
 }
 
 .gallery__preview-link_role_photographer:before {
-	content: "\e806";
+	content: "\e801";
 }
 
 @media screen and (max-width: 2560px) {

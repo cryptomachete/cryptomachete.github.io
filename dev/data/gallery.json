@@ -1,7 +1,7 @@
 [
     {
         "title": "Psychedelics Anonymous Genesis #2591",
-        "imageLink": "static/images/blocks/gallery/crypto_machete.jpg",
+        "imageLink": "static/images/blocks/gallery/crypto_machete_cropped.jpg",
         "imageDescr": "NFT",
         "originalLink": "https://opensea.io/assets/0x75e95ba5997eb235f40ecf8347cdb11f18ff640b/2591",
         "authorName": "Psychedelics Anonymous",
@@ -11,7 +11,7 @@
     },
     {
         "title": "Psychedelics Anonymous Component #1",
-        "imageLink": "static/images/blocks/gallery/component1.png",
+        "imageLink": "static/images/blocks/gallery/component1_cropped.png",
         "imageDescr": "NFT",
         "originalLink": "https://opensea.io/assets/0x5501024ddb740266fa0d69d19809ec86db5e3f8b/4939",
         "authorName": "Psychedelics Anonymous",
@@ -21,7 +21,7 @@
     },
     {
         "title": "Psychedelics Anonymous Component #2",
-        "imageLink": "static/images/blocks/gallery/component2.png",
+        "imageLink": "static/images/blocks/gallery/component2_cropped.png",
         "imageDescr": "NFT",
         "originalLink": "https://opensea.io/assets/0xa7b6cb932eecacd956454317d59c49aa317e3c57/6281",
         "authorName": "Psychedelics Anonymous",
@@ -31,7 +31,7 @@
     },
     {
         "title": "Metaverse Psychedelics Anonymous Pass #8150",
-        "imageLink": "static/images/blocks/gallery/metaverse_pass.png",
+        "imageLink": "static/images/blocks/gallery/metaverse_pass_cropped.png",
         "imageDescr": "NFT",
         "originalLink": "https://opensea.io/assets/0x22674fd4ce74765c211eec01698fda36f57a650a/8150",
         "authorName": "Psychedelics Anonymous",
@@ -41,7 +41,7 @@
     },
     {
         "title": "IRL Psychedelics Anonymous Pass #7366",
-        "imageLink": "static/images/blocks/gallery/irl_pass.png",
+        "imageLink": "static/images/blocks/gallery/irl_pass_cropped.png",
         "imageDescr": "NFT",
         "originalLink": "https://opensea.io/assets/0x92aa4c9a4f54fe95d0e799687d1da12a7ebca538/7366",
         "authorName": "Psychedelics Anonymous",
@@ -51,7 +51,7 @@
     },
     {
         "title": "Psychedelics Anonymous Printing Press",
-        "imageLink": "static/images/blocks/gallery/papp.png",
+        "imageLink": "static/images/blocks/gallery/papp_cropped.png",
         "imageDescr": "NFT",
         "originalLink": "https://opensea.io/assets/0xc8e1de8dc39a758c7a50f659b53f787e0f1398bd/2766",
         "authorName": "Psychedelics Anonymous",
@@ -111,7 +111,7 @@
     },
     {
         "title": "Bastard Penguins #9240",
-        "imageLink": "static/images/blocks/gallery/bastard_penguin9240.png",
+        "imageLink": "static/images/blocks/gallery/bastard_penguin9240_cropped.png",
         "imageDescr": "NFT",
         "originalLink": "https://opensea.io/assets/0x350b4cdd07cc5836e30086b993d27983465ec014/9240",
         "authorName": "Bastard Penguins",

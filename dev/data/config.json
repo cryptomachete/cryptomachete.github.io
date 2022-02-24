@@ -3,10 +3,10 @@
         "lang": "en",
         "title": "NFT Gallery",
         "titleDelim": " | ",
-        "description": "NFT Gallery by CryptoMachete",
-        "keywords": "gallery, gallery template, html5 template, css3 template",
-        "url": "https://cryptomachete.github.io/simple-gallery_responsive-template/",
-        "authorName": "CryptoMachete",
+        "description": "NFT Gallery by Crypto Machete",
+        "keywords": "NFT, crypto, AI art",
+        "url": "https://twitter.com/CryptoMachetea",
+        "authorName": "Crypto Machete",
         "authorLink": "https://github.com/cryptomachete"
     },
     "modules": {
@@ -19,7 +19,7 @@
         "openGraph": false
     },
     "links": {
-        "twitterCardCreator": "crypto_machete",
-        "twitterCardAccount": "crypto_machete"
+        "twitterCardCreator": "CryptoMachetea",
+        "twitterCardAccount": "CryptoMachetea"
     }
 }
